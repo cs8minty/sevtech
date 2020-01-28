@@ -1,4 +1,4 @@
-**SevTech Tips and Tricks**
+**SevTech 팁과 트릭**
 
 Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com/minecraft/modpacks/sevtech-ages/files/2752761)
 
@@ -10,7 +10,7 @@ Please use this if you don't intend to propose tips.
 
 Feel free to add comments, and propose changes [here](https://docs.google.com/document/d/1CSVTuVD59676TQkjwyPqY8zjTPCpKONYXtxenJ-qub8/edit#).
 
-### Version History
+### 버전 히스토리
 
 1. Diff between [October 31 and October 7](https://drive.google.com/open?id=1YArnaRjxNOVYz-yO4Gmmv6_HtFlYlIqG)
 
@@ -32,35 +32,35 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 10. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
-### Performance tips:
+### 성능 팁:
 
-* The modpack creator intended only needing 4 GB of ram allocated, but YMMV.
+* 모드팩 제작자는 4 GB의 램만 할당하면 된다고 하지만, 당신의 생각은 다를 수 있습니다.
 
-* Custom java arguments for garbage collection: -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=51 -XX:G1HeapRegionSize=32M
+* 가비지 컬렉션을 위한 커스텀 자바 인수: -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=51 -XX:G1HeapRegionSize=32M
 
-* Disabling certain mods can improve performance:
+* 특정 모드를 사용하지 않도록 설정하면 성능이 향상될 수 있음:
 
-    * Better foliage - This mod makes leaves and grass appear more complex.
+    * Better foliage - 이 모드는 나뭇잎과 잔디를 더 복잡하게 보이게 한다.
 
-    * Fancy block particles - Replaces breaking blocks into a 3D variant.
+    * Fancy block particles - 파괴되는 블록을 3D로 변형시킨다.
 
-    * Smooth font - Replaces the standard font.
+    * Smooth font - 기본 글꼴을 교체한다.
 
-* Install optifine (max D3) to finetune the graphical experience you want to have: [https://optifine.net/downloads](https://optifine.net/downloads)
+* 원하는 그래픽 환경을 조정하려면 옵티파인(optifine)을 설치(최대 D3버전)하세요: [https://optifine.net/downloads](https://optifine.net/downloads)
 
-    * Some people report invisible blocks when using optifine, in **config/thebetweenlands/config.cfg** change **B:fullbright_blocks=true** to **false**.
+    * 옵티파인을 사용할 시 블록이 보이지 않는다면 **config/thebetweenlands/config.cfg**의 **B:fullbright_blocks=true**를 **false**로 변경한다.
 
-* Twilight Forest tweaks (config/twilightforest.cfg) :
+* 황혼의 숲(Twilight Forest) 트윅 (config/twilightforest.cfg) :
 
-    * Set **B:leavesFullCube=true** to **false** to decrease FPS stuttering.
+    * FPS 스터터링을 줄이려면 **B:leavesFullCube=true**을 **false**로 설정하십시오.
 
-* Do not put PrimalCore logs in a Cyclic block placer. This will cause a 'ticking tile entity' crash and potentially corrupt your save.
+* PrimalCore의 나무를 Cyclic block placer에 넣지 마십시오. 이로 인해 '타일 엔티티'가 충돌하고 저장 파일이 손상될 수 있다.
 
-* Same goes for "Ore Dict Filter"+Hemp Seeds in BloodMagic Router -> ticking tile entity error
+* BloodMagic Router에 "Ore Dict Filter" + Hemp Seeds도 마찬가지다 -> 타일 엔티티 오류
 
-### Seeds
+### 시드
 
--1717583552609621523 (3.1.2 Hotfix 1) Spawn on large open field. 4 Shoggoth lairs nearby, Bone Structure, Rock Crystals and lava a hop away. Village over the river. All needed metals nearby. Darklands X=-1500,Z=-750 (1 nights journey by raft) with darkland cobblestone village. 35k buckets of Oil in chunks N,E, & W of squat tree nearest Sakura trees.
+-1717583552609621523 (3.1.2 Hotfix 1) 넓은 들판에 스폰한다. 4개의 쇼고스 둥지가 근처에 있고, 뼈 구조물, 락 크리스탈 그리고 용암이 조금 떨어진 곳에 있다. 강 너머에 마을이 있고 주변에 필요한 모든 금속이 있다. 다크랜드 X=-1500,Z=-750 (뗏목으로 하룻밤 여행)과 다크랜드 조약돌 마을. 벚꽃 나무와 오일 3500 양동이.
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
@@ -78,21 +78,21 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ## Uncategorized Tips
 
-* You can access the main quest guide by pressing L. Purple quests lead you to the end of the age (If there is no color, this is talking about the ones with  2 round sides. The stars are the final quest in the age).
+* L을 누르면 메인 퀘스트 가이드에 접근할 수 있다. 보라색 퀘스트는 당신을 에이지의 끝으로 이끈다(색상이 없다면, 이것은 두 개의 둥근 면을 가진 것에 대해 말하고 있는 것이다. 별은 현재 에이지의 최종 퀘스트이다).
 
-* If a rock on the ground doesn't break in one click or **sounds like ****dirt/grass** when hitting it, LEAVE IT THERE- it's an ore sample in disguise.
+* 땅에 있는 바위가 한 번 클릭으로 부서지지 않거나 **부딪힐 때 흙/잔디처럼 들린다면**, 그것을 그대로 놔둬라. 그것은 광석 샘플이 변신한 것이다.
 
-* Carry-On is in the pack, it can pick up most passive mobs (no villagers, buffaloes, horses, or larger mobs). Note your reach is less than right clicking. You can also pick up most chests, and other tile entities like this as well.
+* Carry-On은 모드팩에 있고, 대부분의 비선공 몹(마을 주민, 버팔로, 말, 또는 더 큰 몹)을 들 수 있다. 오른쪽 클릭보다 도달 범위가 작다는 점에 유의하십시오. 또한 대부분의 상자와 이와 같은 다른 타일 엔티티들을 집을 수 있다.
 
-* **Lighting fire on cobblestone** for your first kiln to cook your charcoal will last a bit longer than on dirt/grass. 
+* **조약돌에 불을 붙이면** 목탄을 굽는 첫 가마(Kiln)가 흙/잔디보다 조금 더 오래 갈 것이다.
 
-* Quark's inventory drop-off button allows you to bypass the Stage’s restriction by letting you put unfamiliar items into nearby chests/hoppers
+* Quark의 인벤토리 정리 버튼을 통해 unfamiliar 아이템을 근처 상자/호퍼에 넣을 수 있으므로 스테이지의 제한을 피할 수 있다.
 
-* You can keep items from being [dropped off](https://quark.vazkii.us/#module-management) by favoriting them. Alt+right clicking an item will make it a "Favorite Item". Go to Inventory tweaks settings (3 dots at top right) and turn off shortcuts.
+* 아이템을 즐겨찾기함으로써 아이템을 [떨어뜨리는 것](https://quark.vazkii.us/#module-management)을 막을 수 있다. Alt + 아이템을 마우스 오른쪽 버튼으로 클릭하면 "즐겨찾는 아이템"이 된다. Inventory tweaks settings(오른쪽 위 점3개)으로 이동하여 단축키를 끄십시오.
 
-* The world generates in a **logical heat map**.[ (Breakdown of the heatmap and where to find biomes.)](https://www.reddit.com/r/feedthebeast/comments/8crpq4/sevtech_heatmap_breakdown/) Need snow or a desert? Travel North or South until you find it! See the Heatmap section below
+* 월드는 **논리적 열 지도**로 생성된다.[ (Breakdown of the heatmap and where to find biomes.)](https://www.reddit.com/r/feedthebeast/comments/8crpq4/sevtech_heatmap_breakdown/) 눈이 필요한가? 사막이 필요한가? 찾을 때까지 북쪽이나 남쪽을 여행하라! 아래의 열 지도 섹션을 참조하십시오.
 
-* The carrot in your inventory is where you can view your **nutrition levels**. If you raise the nutrition levels high enough you will get **buffs**. Let them drop too low and you'll have debuffs. See nutrition below for healthy meals below
+* 당신의 인벤토리에서 당근은 당신이 당신의 **영양 수준**을 볼 수 있는 곳이다. 만약 당신이 영양 수준을 충분히 높인다면 당신은 **버프**를 얻을 것이다. 그것을 너무 낮게 놔두면 디버프를 얻게 될 것이다. 아래 영양을 참조하여 건강한 식사를 하십시오.
 
 * You can move **faster** on certain blocks like Grass Paths made by right clicking with a shovel or trowel
 
