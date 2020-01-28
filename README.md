@@ -76,7 +76,7 @@ Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com
 
 # Age 0
 
-## Uncategorized Tips
+## 일반 팁
 
 * L을 누르면 메인 퀘스트 가이드에 접근할 수 있다. 보라색 퀘스트는 당신을 에이지의 끝으로 이끈다(색상이 없다면, 이것은 두 개의 둥근 면을 가진 것에 대해 말하고 있는 것이다. 별은 현재 에이지의 최종 퀘스트이다).
 
@@ -94,27 +94,27 @@ Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com
 
 * 당신의 인벤토리에서 당근은 당신이 당신의 **영양 수준**을 볼 수 있는 곳이다. 만약 당신이 영양 수준을 충분히 높인다면 당신은 **버프**를 얻을 것이다. 그것을 너무 낮게 놔두면 디버프를 얻게 될 것이다. 아래 영양을 참조하여 건강한 식사를 하십시오.
 
-* You can move **faster** on certain blocks like Grass Paths made by right clicking with a shovel or trowel
+* 당신은 삽으로 만든 잔디 길과 같은 특정 블록에서 **더 빨리** 움직일 수 있다.
 
-* Use F7 to see the **light levels** on the ground and F9 to see the **chunk borders**.
+* F7을 사용하여 지상의 **밝기 수준**을 확인하고 F9를 사용하여 **청크 경계**를 확인하십시오.
 
-* Some blocks are **disguised** as other blocks. They are revealed in the correct stage. Always go back and check out areas you've already explored to see what's new. 
+* 일부 블록은 다른 블록으로 **변장**하고있다. 그것은 올바른 단계에서 드러난다. 항상 돌아가서 이미 탐색한 영역을 확인하여 새로운 것을 확인하십시오.
 
-* **Rafts** are an earlier form of water transportation. They are just a bit weaker and slower.
+* **뗏목(Rafts)**은 수상 교통 수단의 초기 형태이다. 그것은 단지 조금 더 약하고 느릴 뿐이다.
 
-    * Sometimes they sink. Use 'Carry on' (shift+right click) to fetch them.
+    * 때때로 그것은 가라앉는다. Carry On'(쉬프트+우측 클릭)을 사용하여 들어올리세요.
 
-* Once you've picked a spot for your base, reset your spawn point and have some food(for regaining your nutrition), pillar up and die to get a **skull compass leading you back to your base**, I mean death point.
+* 일단 당신의 기지를 위한 장소를 고르고 나면, 스폰포인트를 재설정하고 약간의 음식을 먹고, 기둥을 세우고, 당신을 다시 **기지로 인도하는 해골 나침반**을 얻기 위해 죽어라, 내 말은, 데스 포인트라는 뜻이다.
 
-* Shift/Sneak on your grave to retrieve your items.
+* 무덤에서 쉬프트/움크리기를 하여 아이템을 되찾아라.
 
-* Once you get a saddle, go tame a horse (repeatedly trying to ride it) to speed up traversing the overworld. He can jump stone fence, but only with you riding. Be sure to bring a fence and lead with you for when you want to get off your high horse. Alternatively live near an ocean and use a raft to visit new places, taking care with the sharks and piranhas that attack when you get to shore. Piranhas jump out at you.
+* 안장을 얻으면 말을 길들이고(반복해서 다시 타려고 해라) 속력을 내서 세계를 횡단하라. 말은 돌로 된 울타리를 뛰어넘을 수 있지만, 오직 너만이 탈 수 있다. 그렇지 않으면 바다 근처에 살면 뗏목을 이용하여 새로운 곳을 방문해라. 해안가에 도착하면 공격하는 상어와 피라냐가 반겨준다.
 
-* Hunting sharks is easy; if you have a one block deep strip of water to stand in, you can just spear them to death without them being able to reach you.
+* 상어를 사냥하는 것은 쉽다; 만약 여러분이 서 있을 수 있는 한 블록의 깊은 물줄기가 있다면, 여러분은 상어들이 여러분에게 닿지 않고 그들을 창으로 찔러 죽일 수 있다.
 
-* Be on the lookout for Sakura, Eucalyptus or Dark Oak trees. You'll need the logs to upgrade your work stump into the mk2 version. It can hold full stacks of items for repeated crafting, and takes fewer whacks.
+* 벚꽃, 유칼립투스 또는 짙은참나무를 주시하라. 워크스텀프를 mk2 버전으로 업그레이드하려면 목재가 필요할 것이다. 그것은 반복적인 제작템을 만들기 위해 물건을 가득 넣을 수 있고, 더 적게 칠 수 있다.
 
-* You can use punji sticks (crafted from sugar cane) to damage mobs. Can place on hoppers for collection, and on walls to deter spiders. 
+* 몹들에게 피해를 입히기 위해 펀지 스틱(사탕수수로 제작한 것)을 사용할 수 있다. 수집을 위해 호퍼 위에 놓고, 거미를 막기 위해 벽에 붙일 수 있다.
 
 * Lit fibre torches(right click unlit one on fire) are not as good as vanilla torches. They only provide a light level of 10, meaning mobs can still spawn 3 blocks away. Craft them into totem torches using 2 sticks for much better lighting. Since the totem torch doesn't require charcoal/coal to make you can get and will need a large supply. Use a Flint Workblade to instantly get sticks from leaves and fibre from weeds. Bring 3 workblades with you if you want to stock up.
 
@@ -136,61 +136,61 @@ Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com
 
 * Cactus can grow adjacent to sugarcane, making your farm more compact.
 
-## Step assist vs. auto-jump
+## 스텝 어시스트 vs 자동 점프
 
-Auto-jump is horrible, we all know. That is not what is on by default in SevTech. Instead we have Cyclic's step assist feature on from the get go. In age 1 after you make the Blood Altar you can craft a special apple (Apple of Lofty Stature) to toggle it. See below for a faster way to disable it.
+자동 점프는 끔찍하다, 우리 모두 알고 있어. 그것은 세브테크에서 기본적으로 켜져 있지 않다. 대신 처음부터 Cyclic의 스텝 어시스트 기능이 있다. 피의 제단을 만든 후 에이지 1에는 특별한 사과(Lofty Stature의 사과)를 만들어 이 기능을 전환할 수 있다. 비활성화하는 더 빠른 방법은 아래를 참조하십시오.
 
-Here are are a few things that step assist fixes over auto-jump: 
+다음은 자동 점프에 대한 스텝 어시스트 수정 사항: 
 
-* You don't jump a full 1.25 blocks, but instead are instantly moved the 1 vertical block needed
+* 1.25블록 전체를 점프하는 것이 아니라 필요한 1개의 수직블록을 즉시 이동시킨다.
 
-* You don't jump and you don’t land, thus eliminating in-flight time
+* 점프도 하지 않고 착지도 하지 않아 오르는 시간 단축.
 
-* Mobs still need to jump, making mountain climbing a realistic escape strategy
+* 몹들은 여전히 점프를 해야 하고, 등산을 현실적인 탈출 전략으로 만든다.
 
-* You don't ruin farmland climbing out of water sources
+* 물에서 올라올 때 밭을 망치지 않는다.
 
-* You can run up mountains covering just as much horizontal distance as if you were running.
+* 마치 달리는 것처럼 산을 뛰어오를 수 있다.
 
-* It doesn't use more hunger than walking
+* 걷는 것보다 배고픔을 더 많이 사용하지 않는다.
 
 * When digging diagonally down you don't have to make the pathway 3 tall. A 2 tall stairway allows for fast travel up. Still the same jerkiness going down. But now you don’t have to jump going up.
 
 If this feature is game-breaking and you have control over the configs, go to cyclic's configs and disable stepheightdefault and create a new character. If you’re already established see if the admin can cheat the apple to you.
 
-## When and where to select a first base
+## 첫 번째 기지 선택 시기 및 장소
 
-### What to look for
+### 무엇을 찾아야 하는가
 
-* Gravel, sticks, and fibre to bootstrap your first tools. Crafting stump then Flint pickaxe, workblade, shears, upgrading to stone pickaxe and axe  then set out for gathering.
+* 첫 번째 도구를 만들기 위한 자갈, 막대기, 섬유. 그리고 나서 부싯돌 곡괭이, 작업용 칼, 가위, 돌 곡괭이, 도끼로 업그레이드한 다음 스텀프를 제작한다.
 
-* Fleece: The workblade turns this into string, so you don't have to find cotton plants. Instead of killing sheep for Fleece, use flint shears so the herd doesn’t run away. Make a sleeping mat ASAP.
+* 플리스: 작업용 칼은 이것을 실로 바꾸므로, 목화를 찾을 필요가 없다. 플리스를 위해 양을 죽이는 대신 부싯돌 가위를 사용하여 도망가지 않도록 하십시오. 가능한 한 빨리 침낭을 만들어라.
 
-* Sugarcane: You'll want at least 6 planted to have enough for the totemic tools
+* 사탕수수: 토템 도구를 충분히 사용할 수 있도록 6개 이상 심어야 할 겁니다.
 
-* Ink sacks: The atlas, tradable from a white-coat villager, requires feathers and ink sacks
+* 먹물: 흰코트의 마을 주민과 거래할 수 있는 아틀라스(지도)에는 깃털과 먹물이 필요하다.
 
-* Feathers: In addition to the atlas, you'll need 16 for the Wild Dog Boots. Use shears to get 4 feathers per chicken, which kills them in the process without them running away
+* 깃털: 아틀라스 말고도 야생개 부츠에 16개가 필요할 겁니다. 닭 한 마리당 깃털을 4개씩 얻기 위해 가위를 사용하여 도망치지 않고 그 과정에서 죽인다.
 
-* [Optional] Hemp:  use hemp to make 2 bundles of 8 feathers each. The hard part is finding fully grown hemp.
+* [선택] Hemp:  hemp를 사용하여 각각 8개의 깃털로 2 묶음을 만든다. 어려운 점은 다 자란 hemp를 찾는 것이다.
 
-* [Optional]Dog Pelt Boots: Keep all wild dog pelts for Dog Pelt Boots (**run much faster**, jump much higher, good armor, no fall damage).
+* [선택]Dog Pelt Boots: Dog Pelt Boots를 위해 모든 wild dog의 가죽을 보관한다(**더 빨리 달리고**, 훨씬 더 높이 점프하고, 좋은 갑옷, 낙상 피해 없음).
 
-* Bone blocks: Bone fossils are easily found in plains. Pick up at least 10-30 blocks for quick farming and homesteading
+* Bone blocks: 뼈 화석은 평원에서 쉽게 발견된다. 빠른 농사와 홈스테딩을 위해 최소 10-30블록의 블록을 얻으시오.
 
-* Black lotus, Dandelion and Rose: The fluid bladder needs these 3 powders
+* 검은 연꽃, 민들레, 장미: fluid bladder는 이 3개의 가루가 필요하다.
 
-* Clay: You'll need around 30 to get you through Age 0
+* 점토: 에이지 0을 통과하려면 30개 정도가 필요할 겁니다.
 
-* 4-7 bone: totemic needs these. Note that animals and zombies sometimes drop bones.
+* 뼈 4-7개: 토템은 이것들을 필요로 한다. 동물들과 좀비들은 때때로 뼈를 떨어뜨린다는 것을 주목하라.
 
-* Try to keep to one type of animal for meat and pelts as your initial inventory is scarce when gathering all this stuff.
+* 이 모든 것을 수집할 때 초기 인벤토리가 부족하기 때문에 고기와 가죽을 위해 한 종류의 동물을 얻도록 하라.
 
-* Villages have stone slabs at the smithery. Find a leatherworker to trade pelts for leather strips, bypassing that tedious process. Trade in fleece for string while you're here.
+* 마을에는 돌 반블록과 대장간이 있다. 지루한 과정을 생략하고 가죽끈을 교환할 가죽장이를 찾아라. 네가 여기 있는 동안 플리스와 실을 거래해라.
 
-### Where to set up base
+### 어디에 기지를 만들어야 하는가
 
-* Waterfall will have fish generate in it, they will flop out the edge of the water and expire on the ground, easy access to protein.
+* 폭포는 물고기가 그 안에서 생성되게 할 것이고, 물 가장자리에서 튀어나와 땅에서 소멸할 것이고, 단백질을 쉽게 얻을 것이다.
 
 * Water: River and ocean biomes have infinite water. Pulling water from lakes results in annoying but workable whirlpools. Placeable water is pushed out to age 2, so any farm will need to be placed around existing water, or aqueducts. You'll also want your sugarcane planted and nearby so it always grows. Plan your base accordingly
 
