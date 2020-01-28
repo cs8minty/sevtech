@@ -4,11 +4,11 @@ Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
 
-Here is the web view [https://borg286.github.io/sevtech/](https://borg286.github.io/sevtech/) 
+여기에 웹뷰가 있다 [https://cs8minty.github.io/sevtech/](https://cs8minty.github.io/sevtech/) 
 
-Please use this if you don't intend to propose tips.
+팁을 제안할 생각이 없는 경우 이것을 사용하십시오.
 
-Feel free to add comments, and propose changes [here](https://docs.google.com/document/d/1CSVTuVD59676TQkjwyPqY8zjTPCpKONYXtxenJ-qub8/edit#).
+언제든지 의견을 추가하고 [여기](https://docs.google.com/document/d/1CSVTuVD59676TQkjwyPqY8zjTPCpKONYXtxenJ-qub8/edit#)에 변경 사항을 제안하십시오.
 
 ### 버전 히스토리
 
