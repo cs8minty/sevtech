@@ -1,6 +1,6 @@
 **SevTech 팁과 트릭**
 
-Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com/minecraft/modpacks/sevtech-ages/files/2752761)
+Sevtech 현재 버전은 3.1.2 Hotfix 1 : [여기서 얻으세요 !](https://www.curseforge.com/minecraft/modpacks/sevtech-ages/files/2752761)
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
 
@@ -494,7 +494,7 @@ Start a ritual by shift clicking the instruments in certain orders. After the ri
 
 * The Shadow monster's darkness ability is very blinding. Best to lure him to your bunker and hack at his knees.
 
-# 에이지 1
+# Age 1
 
 This age is focused on Prospecting for Bronze(tin and copper), 2 magic mods: Blood magic and AbyssalCraft, and having a minimal Better With Mods setup.  If you want ideas on planning a good base with room to put your stuff check out this [server tour from To Asgard](https://www.youtube.com/watch?v=Lowt8ttvr8Q).
 
