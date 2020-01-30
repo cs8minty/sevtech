@@ -370,7 +370,7 @@ Sevtech 현재 버전은 3.1.2 Hotfix 1 : [여기서 얻으세요 !](https://www
 
 * press와 grindstone은 판자와 막대기를 많이 공급받는 데 원재료가 보다 훨씬 덜 필요하다. 호퍼 입력 및 추출로 chopper의 우선순위를 정한다.
 
-* 가죽은 'wooden basins(?)'으로 좀 더 빨리 만들지만 여전히 수동이다. 그러나 당신은 각각이 휘젓는 애니메이션을 거치기를 기다리는 동안 6개의 basins을 병렬로 저을 수 있다.
+* 가죽은 wooden basins(?)으로 좀 더 빨리 만들지만 여전히 수동이다. 그러나 당신은 각각이 휘젓는 애니메이션을 거치기를 기다리는 동안 6개의 basins을 병렬로 저을 수 있다.
 
 * basin에서 가죽을 만들 때는 만들 때마다 소금 1개 생가죽 3개만 있으면 된다. 나중에 무두질할 때(tanned)도 마찬가지야; 건조한 가죽 3개당 resin 1개면 돼.
 
@@ -861,8 +861,7 @@ To mine the Carminite reactor in the urgast towers you may need a diamond-level 
 
 These tools allow you to swap out parts, gain modifier slots the more you use them, and have a very large selection of materials to use. There are lots of abilities tied to each modifier, allowing a great deal of customization to fit your needs. These modifiers are not available until you reach age 3. [Here](#heading=h.ynpqna7qajwe) are useful parts listed and described.
 
-#### 
-Black Quartz
+#### Black Quartz
 
 While a black quartz pickaxe isn't much to write home about, combining with the hoe, sword, axe, and shovel gives an AIOT tool (All In One Tool) with 1120 durability, and great damage. 1 black quartz repairs 370 durability.
 
