@@ -116,25 +116,25 @@ Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com
 
 * 몹들에게 피해를 입히기 위해 펀지 스틱(사탕수수로 제작한 것)을 사용할 수 있다. 수집을 위해 호퍼 위에 놓고, 거미를 막기 위해 벽에 붙일 수 있다.
 
-* Lit fibre torches(right click unlit one on fire) are not as good as vanilla torches. They only provide a light level of 10, meaning mobs can still spawn 3 blocks away. Craft them into totem torches using 2 sticks for much better lighting. Since the totem torch doesn't require charcoal/coal to make you can get and will need a large supply. Use a Flint Workblade to instantly get sticks from leaves and fibre from weeds. Bring 3 workblades with you if you want to stock up.
+* Lit fibre 횃불은 바닐라 횃불보다 좋지 않다. 그것은 10의 낮은 밝기 수준밖에 제공하지 않는다. 즉, 몹들은 여전히 3블록 떨어진 곳에서 스폰 될 수 있다는 뜻이다. 훨씬 더 좋은 조명을 위해 두 개의 막대기를 사용하여 토템 횃불을 제작하십시오. 토템 횃불은 숯/석탄을 필요로 하지 않기 때문에 많은 공급이 필요할 것이다. 부싯돌 작업칼을 사용하여 잎에서 막대를 즉시 얻고 풀에서 fibre를 얻는다. 많이 생산하고 싶으면 작업칼 3개를 가지고 와라.
 
-* The red cedar tree needed for the fire hopper requires a totemic ceremony to convert any sapling to red cedar sapling.
+* fire hopper에 필요한 붉은 삼나무는 모든 종류의 묘목을 붉은 삼나무 묘목으로 변환하기 위한 토템 의식을 필요로 한다.
 
-* If you can't find any sharks use a strainer together with a survivalist’s strainer to collect shark teeth (5% chance over 10 minutes is almost guaranteed).
+* 상어가 발견되지 않으면 survivalist’s strainer와 함께 상어 이빨를 채취하기 위해 strainer를 사용한다. (10분에 5%가 나올 확률이 거의 보장된다).
 
-* If your grave gets removed (eg by the Hydra), you can recover it by using the **/tmg_restore** command from Tomb Many Graves mod.
+* 무덤이 제거되면(예: 히드라에 의해) Tomb Many Graves 모드의 **/tmg_restore** 명령을 사용하여 무덤을 복구할 수 있다.
 
-* Having trouble to orientate yourself? Use the Sun! The sun and moon rise in the east and set in the west. This makes a good early compass to find yourself which way you are traveling.
+* 방향을 잡는 데 어려움이 있으십니까? 태양을 사용하라! 해와 달이 동쪽에서 뜨고 서쪽으로 진다. 이것은 당신이 어느 방향으로 여행하고 있는지 찾기에 좋은 게임 초반의 나침반이 된다.
 
-* The drop off button merges stuff in your inventory into nearby chests. Ie. if you have a nearby chest with cobble this dropoff button will push any cobble you have into that chest. If you're not already storing it then it should remain in your inventory.
+* drop off 버튼은 당신의 인벤토리를 근처 상자로 병합한다. 만약 당신이 이 드롭오프 버튼과 함께 근처에 상자가 있다면, 당신이 가지고 있는 모든 조약돌도 그 상자로 밀어넣을 것이다. 아직 저장하지 않은 경우 인벤토리에 보관하십시오.
 
-* FindMe lets you hover your mouse over an item in JEI, press 'Y' and any nearby chest with that item will smoke.
+* FindMe를 사용하면 JEI의 아이템 위에 마우스를 올려놓고 'Y'를 누르면 해당 아이템이 있는 근처의 모든 상자에 연기가 피어 오른다.
 
-* The Atlas (map) is now craftable for cases when you can't find a librarian, completing the quest at the same time.
+* 아틀라스(지도)는 사서를 찾을 수 없을 때 퀘스트를 완료할 수 있도록 이제 제작이 가능하다.
 
-* You can place Wood/Planks in your off-hand slot and right click a chopping block to place it, making chopping much faster. This works for the stone anvil later.
+* 당신의 오프핸드 슬롯에 목재/나무판자를 놓고 오른쪽 클릭으로 배치하여 훨씬 더 빨리 자르도록 할 수 있다. 이것은 나중에 stone anvil에도 효과적이다.
 
-* Cactus can grow adjacent to sugarcane, making your farm more compact.
+* 선인장은 사탕수수와 인접해 자랄 수 있고, 농장을 더 컴팩드하게 만들 수 있다.
 
 ## 스텝 어시스트 vs 자동 점프
 
@@ -156,7 +156,7 @@ Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com
 
 * When digging diagonally down you don't have to make the pathway 3 tall. A 2 tall stairway allows for fast travel up. Still the same jerkiness going down. But now you don’t have to jump going up.
 
-If this feature is game-breaking and you have control over the configs, go to cyclic's configs and disable stepheightdefault and create a new character. If you’re already established see if the admin can cheat the apple to you.
+이 기능이 게임에 방해되고 설정을 조정할 수 있는 경우 cyclic 설정으로 이동하여 stepheightdefault을 사용하지 않도록(disable) 설정하고 새 문자를 만드십시오. 이미 있는 경우 관리자가 사과를 치트할 수 있는지 확인하십시오.
 
 ## 첫 번째 기지 선택 시기 및 장소
 
@@ -164,7 +164,7 @@ If this feature is game-breaking and you have control over the configs, go to cy
 
 * 첫 번째 도구를 만들기 위한 자갈, 막대기, 섬유. 그리고 나서 부싯돌 곡괭이, 작업용 칼, 가위, 돌 곡괭이, 도끼로 업그레이드한 다음 스텀프를 제작한다.
 
-* 플리스: 작업용 칼은 이것을 실로 바꾸므로, 목화를 찾을 필요가 없다. 플리스를 위해 양을 죽이는 대신 부싯돌 가위를 사용하여 도망가지 않도록 하십시오. 가능한 한 빨리 침낭을 만들어라.
+* 플리스(Fleece): 작업용 칼은 이것을 실로 바꾸므로, 목화를 찾을 필요가 없다. 플리스를 위해 양을 죽이는 대신 부싯돌 가위를 사용하여 도망가지 않도록 하십시오. 가능한 한 빨리 침낭을 만들어라.
 
 * 사탕수수: 토템 도구를 충분히 사용할 수 있도록 6개 이상 심어야 할 겁니다.
 
@@ -176,7 +176,7 @@ If this feature is game-breaking and you have control over the configs, go to cy
 
 * [선택]Dog Pelt Boots: Dog Pelt Boots를 위해 모든 wild dog의 가죽을 보관한다(**더 빨리 달리고**, 훨씬 더 높이 점프하고, 좋은 갑옷, 낙상 피해 없음).
 
-* Bone blocks: 뼈 화석은 평원에서 쉽게 발견된다. 빠른 농사와 홈스테딩을 위해 최소 10-30블록의 블록을 얻으시오.
+* 뼈 블록: 뼈 화석은 평원에서 쉽게 발견된다. 빠른 농사와 홈스테딩을 위해 최소 10-30블록의 블록을 얻으시오.
 
 * 검은 연꽃, 민들레, 장미: fluid bladder는 이 3개의 가루가 필요하다.
 
@@ -192,217 +192,217 @@ If this feature is game-breaking and you have control over the configs, go to cy
 
 * 폭포는 물고기가 그 안에서 생성되게 할 것이고, 물 가장자리에서 튀어나와 땅에서 소멸할 것이고, 단백질을 쉽게 얻을 것이다.
 
-* Water: River and ocean biomes have infinite water. Pulling water from lakes results in annoying but workable whirlpools. Placeable water is pushed out to age 2, so any farm will need to be placed around existing water, or aqueducts. You'll also want your sugarcane planted and nearby so it always grows. Plan your base accordingly
+* 물: 강과 해양 바이옴은 무한 물을 가지고 있다. 호수의 물을 끌어내는 것은 귀찮고 소용돌이치는(흐르는) 결과를 낳는다. 배치 가능한 물은 에이지 2에서 나오므로, 어떤 농장도 기존 물, 즉 수로 주변에 배치되어야 할 것이다. 당신은 또한 당신의 사탕수수를 심고 그 근처에 항상 자라도록 하기를 원할 것이다. 그에 따라 자신의 기지를 계획하십시오.
 
-* Forest: You'll be using lots of wood for quite a while, so pick a place with quick access to trees.
+* 숲: 나무를 꽤 오래 많이 쓸 테니, 나무에 빨리 접근할 수 있는 곳을 골라라.
 
-* Find a village you can often trade hides for leather so you can skip the lengthy leather making process.
+* 가죽(Hide)과 가죽(Leather)을 교환할 수 있는 마을을 찾아라. 그래야 긴 가죽을 만드는 과정을 건너뛸 수 있다.
 
-* You can also trade fleece for string with better results than transforming it with work blade.
+* 또한 양모(Fleece)를 실로 교환하는 것은 작업용 칼로 변환하는 것보다 더 나은 결과를 얻을 수 있다.
 
-* Cows: Turning Cows into buffallos is required for progression. You have 3 ways of getting them: Pulling a pied piper with wheat, micromanaging with a handful of leads, or using carry-on to slowly carry them back. Pick a base that isn't too far from a herd of cows.
+* 소: 소들을 버팔로로 바꾸는 것은 진행을 위해 필요하다. 당신은 그것들을 얻는 세 가지 방법이 있다: 밀로 유인하는 것, 줄로 손수 끌고오는 것, 또는 그것들을 천천히 운반하기 위해 carry-on을 쓰는 것. 소 떼에서 그리 멀지 않은 기지를 골라라.
 
-* When you get into age 1 you can make storage crates which retain their inventory, making moving much easier. So you don't need to find the perfect place. Age 2 opens up the Tinker’s lumber axe, making a nearby forest less critical.
+* 에이지 1이 되면 인벤토리를 보관하는 상자를 만들어 훨씬 쉽게 이동할 수 있다. 그러니 완벽한 장소를 찾을 필요는 없다. 에이지 2는 팅커의 목재 도끼가 잠금해제 되어 주변의 숲을 덜 위험하게 만든다.
 
-### Where not to set up base
+### 기지로 설정하지 말아야 하는 곳
 
-* Areas with mud patches. Mud takes forever to mine even with the shovel. You often dig out animal pens.
+* 진흙 패치(mud patches)가 있는 영역. 진흙은 삽으로도 채굴에 오래 걸린다.
 
-* Plains: Early game makes heavy use of wood.
+* 평원: 게임 초반은 나무를 많이 사용한다.
 
-    * On the other hand, when breaking leaves manually, saplings are VERY easy to come by.  Allowing you to exponentially grow a tree farm.
+    * 반면에, 직접 나뭇잎을 깰 때, 묘목은 구하기 매우 쉽다. 큰 나무 농장을 만들어라.
 
-## Tools
+## 도구
 
-* Trowel: digs gravel super fast
+* 모종삽(Trowel): 자갈을 초고속으로 판다.
 
-* Flint Hatchet: strictly a gateway into a crafting stump. Upgrade to stone axe ASAP.
+* 부싯돌 손도끼: 엄밀히 말하면 crafting stump로 들어가는 관문이다. 빨리 돌도끼로 업그레이드해.
 
-* Flint pickaxe: strictly a gateway into a cobble. Upgrade to stone pickaxe ASAP.
+* 부싯돌 곡괭이: 조약돌로 들어가는 관문. 가능한 한 빨리 돌로 만든 곡괭이로 업그레이드하십시오.
 
-* Flint spear: 4 damage as melee and ranged, but throwing it risks breaking it.
+* 부싯돌 창: 4의 피해를 주는 근접 장거리 무기, 그러나 그것을 던지는 것은 깨질 위험이 있다.
 
-* Whittling knife: only used to make totems. Scroll or right click in air to switch selected totem animals.
+* 조각칼(토테믹): 토템을 만드는 데만 사용하라. 토템 동물을 전환하려면 허공에다 마우스 스크롤하거나 우클릭하십시오.
 
-* Flint workblade:
+* 조약돌 작업칼:
 
-    * Can be used to instantly cut shrubs and leaves for twine and sticks respectively. 
+    * 풀과 나뭇잎을 각각 노끈(twine)과 막대기로 즉시 자르는 데 사용할 수 있다.
 
-    * Shift-right click dirt/wood/stone to make a ladder. Great for animal pens.
+    * 흙/나무/돌에 쉬프트-우클릭하여 사다리를 만드십시오. 동물 우리로 좋다.
 
-        * Takes a random number of tries per block
+        * 블록 당 임의의 횟수를 시도해야 만들어 진다
 
-        * Note you need to be on the side with the ladder else you fall through.
+        * 사다리쪽에 붙어 있어야 한다는 것을 명심해라 그렇지 않으면 떨어진다.
 
-    * Shift-right click wood (logs -- must be upright) to get some bark. Takes a few times of "scraping"
+    * 나무를 쉬프트-우클릭(원목은 위를 향해 있어야 한다)하여 나무껍질을 얻는다.
 
-    * Shift-right click on grass path to make grass path stair.
+    * 잔디길에 쉬프트-우클릭하여 잔디길 계단을 만든다.
 
-    * Use it in a crafting grid to make many things (press "u" in inventory to see list).
+    * 많은 것을 만들기 위해 제작창에서 사용하라(목록을 보려면 인벤토리에서 "u"를 누르십시오).
 
-    * Like other flint tools it is not repairable like stone tools are.
+    * 다른 부싯돌 도구들처럼 수리할 수 없다.
 
-    * Makes a good early weapon.
+    * 좋은 초반 무기
 
-* Stone pickaxe/axe/sword/hoe/shovel: You can repair your stone tools on the go by crafting it with cobble
+* 돌 곡괭이/도끼/검/괭이/삽: 조약돌을 사용해 돌로 만든 도구를 수리할 수 있다.
 
-* Early game AIOT: Try to collect as many as possible bear claws (obtainable from any type of bear, easiest are brown bears on swamps). That will allow you to create bear claw paxel which is the best weapon in Stages 0-1 (good amount of damage, very fast attack), it's also a quicker pickaxe/axe/shovel than stone based tools. Can be repaired with bear claws (that’s why you should collect more of them). It’s extremely useful later as a mining tool.
+* 게임 초반: 가능한 한 많은 곰 발톱을 모으도록 노력하라. 그것은 당신이 0-1단계에서 최고의 무기인 곰 발톱 팍셀(bear claw paxel)을 만들 수 있게 해줄 것이다. 그것은 또한 돌로 된 도구보다 더 빠른 곡괭이/도끼/삽이다. 곰 발톱으로 수리할 수 있다(그래서 더 많이 모아야 한다). 그것은 나중에 광산 도구로서 매우 유용하다.
 
-* Flint shears: cuts leaves (makes totem wind chimes more musical), vine(useful for biome detector in age 1). Prevents Creepers from exploding. Used on chickens drops a feather, damaging but not frightening the chicken. No need to chase to get chicken meat.
+* 부싯돌 가위: 잎을 자른다(토템 풍경을 더 음악적으로 만든다), 덩굴을 자른다(에이지 1 때 바이옴 디텍터에 유용하다). 크리퍼의 폭발을 방지한다. 닭에 사용하는 것은 깃털을 떨어뜨려 닭을 해칠 수는 있지만 겁을 주지는 않는다. 닭고기를 얻기 위해 쫓을 필요 없다.
 
-* Block rotator: while we don't have access to a tool to rotate blocks just yet, you can press K to toggle how to determine the direction blocks face when placed. Useful for building houses.
+* 블록 회전: 아직 블록을 회전하는 도구에 접근할 수 없는 동안, K를 눌러 블록을 배치할 때 방향을 결정하는 방법을 전환할 수 있다. 집을 짓는데 유용하다.
 
-* Bladder: entry into leather making. Doesn't place water sources, nor hold lava. Can put water in stirring pot.
+* 물주머니(bladder): 가죽 제작에 필요한 것. 물을 배치하지도 용암을 뜰 수도 없다. stirring pot에 물을 넣을 수 있다.
 
-* Trowel: like shovel, but digging grass blocks often drop worms, which help getting fish in strainer.
+* 모종삽(Trowel): 삽과 같다, 그러나 풀 블록을 파면 종종 벌레들을 떨어뜨려, 물고기를 스트레이너에 넣는데 도움이 된다.
 
-* Stone club: It is  an average damage, very fast-hitting weapon, it can also mine cobblestone faster than a pickaxe, and also dig dirt and gravel faster than a shovel. You still need a pickaxe for special rocks like greenschist and limestone though.
+* 돌 몽둥이: 그것은 평균적인 피해를 주며, 매우 빠르게 타격할 수 있는 무기로 곡괭이보다 더 빨리 조약돌을 캐낼 수도 있고, 삽보다 더 빨리 흙과 자갈을 파낼 수도 있다. 하지만 당신은 greenschist나 limestone 같은 특별한 돌들을 위해 곡괭이가 여전히 필요하다.
 
-## Totems
+## 토템
 
-When you've decided on a base then make a whittling knife and make 6 high totems. They act like beacons within 13x13x13 (note: zone is a cube, not infinite column). You don't need the totem music for these to function. See rituals below for that. With whittling knife in hand either scroll or right click the air to cycle through the options. 
+기지를 정했으면 조각칼을 만들어 높은 6칸 높이의 토템을 만들어라. 그들은 13x13x13 내에서 비컨(신호기)처럼 작동한다(note: 구역은 무한대가 아니라 큐브 모양이다). 이것들이 작동하기 위해서 토템 음악은 필요하지 않다. 아래에 있는 의식들을 보라. 조각칼을 손에 든 상태에서 스크롤하거나 오른쪽 버튼을 클릭하여 옵션을 순환하십시오.
 
-Start with the totem base on the bottom, and your choice for wood placed on top. All similar totems need to stack on top of each other, ie. 5 wolf totems 1 high only gives strength 1, whereas a 5 high wolf totem gives strength 3.
+아래부분은 토템 베이스부터 시작해야하여, 위쪽 나무를 선택해 배치한다. 유사한 모든 토템은 서로 겹쳐 쌓아야 한다. 즉, 1개 높이의 늑대 토템 5개는 힘I만 주는 반면 5높이 늑대 토템은 힘III을 준다.
 
-* Bat - no falling damage (1 second)
+* 박쥐 - 낙하 데미지 무효(1초)
 
-* Blaze - Fire Resist (3 second) and minor healing while burning
+* 블레이즈 - 화염 저항(3초)과 타는 동안 작은 회복
 
-* Buffalo - Haste
+* 버팔로 - 신속(헤이스트)
 
-* Cow - Slowness and Resistance II
+* 소 - 느려짐과 저항 II
 
-* Enderman - Night Vision (14 seconds): Note the flashing is warning you that night vision is about to end.
+* 엔더맨 - 나이트 비전(14초): 깜박거린다면 나이트비전이 곧 끝난다는 경고이다.
 
-* Horse - Speed
+* 말 - 속도
 
-* Ocelot - Creepers don't explode
+* 오셀롯 - 크리퍼 폭발 방지
 
-* Pig - Luck (Should affect endermen and mob drops now)
+* 돼지 - 행운 (엔더맨과 몹의 드롭에 영향을 준다)
 
-* Rabbit - Jump Boost
+* 토끼 - 점프 강화
 
-* Spider - Spider (treats blocks as if they had ladders)
+* 거미 - 벽타기 (블록을 사다리가 있는 것처럼 처리한다.)
 
-* Squid - Water Breathing
+* 오징어 - 수중 호흡
 
-* Wolf - Strength
+* 늑대 - 힘
 
-### Totem tips
+### 토템 팁
 
-* Put 6x horse and 1x enderman + 1x ocelot throughout your base. Put 6x high wolf and 6x cow on entrances of base to fend off foes.
+* 6개의 말과 1개의 엔더맨 + 1개의 오셀롯을 당신의 베이스 전체에 놓아라. 6칸 높이 늑대와 6칸 높이 소를 기지의 입구에 놓아 적을 막아라.
 
-* When hunting for Shadow creatures during a night, carve a totem base and Enderman totem into the nearby trees, so that you have constant night vision.  Add in Horse totems if the area is swampy for speed boost. Or Wolf totems if battling the Shadow Beasts.
+* 밤중에 그림자 생명체을 사냥할 때에는 토템 베이스와 엔더맨 토템을 근처 나무로 조각하여 나이트비전이 일정하도록 하라. 속도 향상을 위해 그 지역이 늪지대라면 말 토템을 추가하라. 아니면 늑대 토템을 사용하여 그림자 야수와 싸우거나.
 
-* When mining underwater for clay, salt, etc. take some wood logs, and make a totem with Squid, Enderman, and Buffalo totems. You'll be able to breathe, see, and mine normally.
+* 점토, 소금 등을 캐기 위해 물속에서 채굴할 때는 나무 원목을 가져와 오징어, 엔더맨, 버팔로 토템을 만든다. 당신은 정상적으로 숨을 쉬고, 보고, 평범하게 채굴하는 것을 볼 수 있을 것이다.
 
-## Farming
+## 농사
 
-* While you need to trade bonemeal with the farmer to get farmland for the quest, limit it to once. Craft dirt with bonemeal to get farmland easier.
+* 퀘스트를 위해 농지를 얻기 위해 농부와 뼛가루를 교환할 필요가 있을 때, 그것을 한 번으로 제한하라. 농지를 더 쉽게 얻기 위해 흙과 뼛가루를 조합하라.
 
-* Recall that Age 1 opens up the Hoe, so you can keep it small and use bone meal, and leave the large farm for later. Also, villages often have already hoed ground. Although some of it would already be gone when you get there, the ones with tall grass/other plants on it will still be hoed. Break the plant and immediately plant a seed and the plant won't pop off. You can also attach a plow to the end of a horse and plow the ground before Age 1.
+* 에이지1이 이제 열렸으니 작게 보관하고 뼛가루를 쓰면 된다는 것을 상기하고, 나중에 큰 농장으로 떠나면 된다. 또한, 마을들은 종종 이미 땅을 갈아놨다. 비록 당신이 그곳에 도착했을 때 이미 일부가 사라졌을지라도, 키 큰 잔디/다른 식물들이 그 위에 있는 것들은 여전히 농지로 유지되어 있을 것이다. 식물을 부수고 즉시 씨앗을 심으면 식물이 튀지 않는다. 또한 에이지 1 이전에 말 끝에 쟁기를 달고 땅을 갈 수 있다.
 
-* Use a Flint Workblade to instantly clear out shrubs
+* 부싯돌 작업칼을 사용하여 관목(shrubs)을 즉시 제거
 
-* Even flowing water hydrates farmland
+* 흐르는 물도 농지를 기름지게 한다
 
-* Water is only infinite in River and Ocean biomes.
+* 강과 해양 바이옴에만 물이 무한하다.
 
-* Don't bother with a shovel: make a garden trowel instead. When it comes time to bait your fisherman's strainer, you'll be glad you did.
+* 삽으로 귀찮게 하지 마라: 대신 정원용 모종삽을 만들어라. fisherman's strainer에 넣은 미끼를 물 때가 되면, 네가 한 걸 보고 기뻐할 거야.
 
-* Scout around for a giant bone skeleton (simply a bunch of bone blocks lying in a formation) and grind them up to get loads of bonemeal.
+* 거대한 뼈 골격(단순하게 한 줄로 누워 있는 뼈 덩어리들)을 찾아다니며 그것을 갈아서 뼛가루를 많이 얻어라.
 
-* Place a drum near your farm and do the **Zaphkiel Waltz** for crazy fast plant growth out to a **radius of 6**.
+* 농장 근처에 드럼을 치고 **자프키엘 왈츠(Zaphkiel Waltz)**를 해서 **반경 6칸** 내의 식물이 미친듯이 빨리 자라도록 하라.
 
-* Focus on wheat seeds and cotton, as growing your animals and string surplus is very important.
+* 동물을 기르고 끈을 여우롭게 확보하는 것은 매우 중요하므로 밀과 목화 씨앗에 집중하라.
 
-* You can throw cotton seed on the ground and it will grow a new cotton plant where the seed drop after a little time. It's a easy way to make big cotton farm without farmland.
+* 당신은 목화 씨앗을 땅에 던질 수 있고 그것은 약간의 시간이 지나면 씨앗이 떨어지는 새로운 목화 식물을 재배할 것이다. 농지 없이 큰 목화농장을 만드는 쉬운 방법이다.
 
-## Homesteading
+## 홈스테딩
 
-* With an empty hand, you can shift+right click animals to pick them up and carry them. (villagers, horses or adult buffalo cannot be picked up, shift-right click for ½ of a second)
+* 빈손으로 동물을 쉬프트+우클릭하여 주워서 운반할 수 있다. (마을주민, 말 또는 다 큰 버팔로는 들 수 없음, 1⁄2초간 오른쪽 클릭)
 
-* Place a raft on the ground and lure or place two animals near it and they'll mount the raft. This prevents them from moving around while allowing you to still breed them. (Warning: This may or may not cause some lag)
+* 땅 위에 뗏목을 놓고 그 근처에서 두 마리의 동물을 유인하거나 배치하면 뗏목을 탈 것이다. 이렇게 하면 아직 번식할 수 있는 상태에서 움직이는 것을 막을 수 있다.(경고: 이것은 약간의 렉을 일으킬 수도 있고 그렇지 않을 수도 있다.)
 
-* Fencing animals in a pen
+* 동물 우리를 위한 울타리 치기
 
-    * Wildberry bushes (Note: At times the animals can glitch past the bushes.)
+    * 와일드베리 덤불(Wildberry bushes) (참고: 때때로 동물들은 덤불 속을 미끄러지듯이 지나갈 수 있다.)
 
-    * 2 Dirt makes Dirt slabs. Dig 1 block down and surround pen with slabs
+    * 2개의 흙으로 흙 반블록을 만들어라. 한블록 아래로 파고 우리 주변에 반블록을 놓는다
 
-    * Stone walls
+    * 돌 담장(Stone walls)
 
-    * Leaf blocks
+    * 나뭇잎 블록
 
-* You can get 100% hatching rate with the eggs you picked up by dropping them (not throwing them) and performing the Zaphkiel Waltz.
+* 집어든 달걀을 떨어뜨리고(던지지 않고) 자프키엘 왈츠(Zaphkiel Waltz)를 수행하면 100%로 부화를 할 수 있다.
 
-* The Rite of spring works on villagers, animals and plants up to 8 blocks out in all directions.
+* 봄의 의식(Rite of spring)은 마을주민, 동물, 식물을 위해 사방으로 8블록 떨어진 곳까지 효과를 준다.
 
-* Collecting chicken drops can be automated by putting a wooden hopper+chest under a chicken.
+* 닭 드롭아이템의 수집은 닭 밑에 나무 호퍼 + 상자을 넣어 자동화할 수 있다.
 
-* Buffalo can be bred with wheat so you don't have to keep finding cows and doing the ritual
+* 버팔로는 밀로 번식할 수 있기 때문에 당신은 계속해서 소를 찾고 의식을 행할 필요가 없다.
 
-* After you've found a few cows and optionally pigs, explore for a Bone blocks in clusters to get loads of bonemeal to get a fast supply of wheat.
+* 소와 돼지를 몇 마리 찾은 후, 빨리 밀을 공급받기 위한 많은 양의 뼛가루을 얻기 위해 군집된 뼈 블록을 탐험해보라.
 
-* Pelts are useful for glue in Age 1.
+* 생가죽(Pelts)은 에이지 1 때 접착제(glue)를 위해 유용하다.
 
-## Automation
+## 자동화
 
-* Place a wood hopper on the opposite side of your chopping block and throw items in to automatically place wood. This works for the stone anvil too.
+* 나무 호퍼를 쵸핑 블록 반대편에 놓고 자동으로 나무를 놓기 위해 아이템을 던져 넣어라. 이것은 stone anvil에도 효과가 있다.
 
-* You can use Wooden Hoppers to load/unload drying racks for leather (later, also for paper etc..). You have to use MK2 hoppers if you're "chaining" or “piping” the outputs into a single chest, ie have a single chest for input.
+* 나무 호퍼를 사용하여 가죽(나중에는, 종이 등 또한)을 건조 랙에 넣고 뺄 수 있다. 출력을 단일 상자으로 "체이닝"하거나 "파이핑"할 경우, 즉 입력을 위한 하나의 상자가 있는 경우, MK2 호퍼를 사용해야 한다.
 
-* Instead of using hoppers to automate  drying racks you can increase throughput by parallelizing it at the cost of manually replacing hides. Just make a drying rack wall.
+* 건조 랙을 자동화하기 위해 호퍼를 사용하는 대신, 수동으로 가죽을 교체하는 수고를 들여 호퍼를 병렬화하여 처리량을 늘릴 수 있다. 그냥 건조 랙 벽을 만드세요.
 
-* Wood hoppers are available early on and you'll need about 10-20 of them for a full automated age 0 and 1 setup. Mark 2 hoppers don’t need a chest to pull from, as you can place up to 4 stacks in the top for queuing. Only mark 2 hoppers can be chained together to create a "pipe" of sorts.
+* 나무 호퍼는 초기에 구할 수 있으며, 에이지 0, 에이지 1의 완전 자동화를 위해서는 10-20개 정도가 필요할 것이다. Mk2 호퍼는 상자로 부터 아이템을 가지고 올 필요가 없다. 왜냐하면 상단에 4개의 스택까지 놓을 수 있기 때문이다. 2개의 호퍼만 체이닝으로 묶어 일종의 파이프(pipe)를 만들 수 있다.
 
-* The grill can take up to 16 items for queuing. For automated extraction wait for Age 1 when you get a Dung Pipe to pull items out the side rather than a fire hopper needing to take the job of heating and pulling.
+* 그릴은 최대 16개의 아이템을 처리할 수 있다. 자동 추출을 위해 에이지 1을 기다리면 똥 파이프(Dung Pipe)가 가열 및 당기는 작업을 수행하는 플레임 호퍼 대신 측면으로 물건을 꺼낼 수 있다.
 
-* Upgrade to the craft stump mk. 2, which takes fewer whacks, and can hold stacks in each slot for quick crafting. Prematurely empty it by breaking it or shift right clicking each item with an empty hand.
+* 더 적게 치고 각 슬롯에 스택을 보관할 수 있는 craft stump mk. 2로 업그레이드하십시오. 비우려면 빈 손으로 각 아이템을 우클릭하십시오.
 
-* When you want to get into beast of burden power be sure to have a 9x9 wall around the 7x7 area each horse/buffalo/llama needs. Use either stone fence, berry bushes or 2 block high wall. Otherwise after the beast is done working he wanders away and breaks the lead.
+* 여러분이 홀스 파워(horse power)의 동물에 얻길 원할 때, 말/버팔로/라마가 필요로 하는 7x7 구역 주위에 9x9 벽이 있어야 한다. 돌 울타리, 베리 덤불 또는 2블록의 높은 벽을 사용하라. 그렇지 않으면 일을 끝낸 후에, 길을 잃고 헤매며 줄을 끊는다.
 
-* Make sure the horse grindstone is on the TOP layer of the 7x7x2 area (put another block under it so it's at eye-level). It takes some fiddling but you can automate input and output of the chopper, grinder, and pressing blocks with mk2 hoppers and chests (both the ones you can see into, and normal minecraft chests). Just make sure it is not in the path of the horse as it goes around.
+* horse grindstone이 7x7x2 영역의 위쪽에 있는지 확인하십시오(눈높이에 있도록 그 아래에 블록을 하나 더 넣으십시오). 약간의 조작이 필요하지만 당신은 mk2 호퍼와 상자로 chopper, grinder, 그리고 pressing block의 입력과 출력을 자동화할 수 있다. 단지 그것이 말을 타고 다닐 때 그 길에 있지 않도록 해라.
 
-* Vanilla Wolves and Buffalo are about the best for running your machine, bested only by fast horses.
+* 바닐라 늑대들과 버팔로는 빠른 말로 작동되는 당신의 기계를 작동시키는데 가장 좋다.
 
-* To make beast's work faster place dirt path by right clicking with a shovel on either dirt or grass.
+* 짐승이 일을 더 빨리 하기 위해서는 흙이나 잔디에 삽으로 우클릭하여 잔디길을 깔아라.
 
-* The press and grindstone are needed much less often than a heavy supply of planks and sticks. Prioritize the chopper with hopper input and extraction. 
+* press와 grindstone은 판자와 막대기를 많이 공급받는 데 원재료가 보다 훨씬 덜 필요하다. 호퍼 입력 및 추출로 chopper의 우선순위를 정한다.
 
-* Leather gets a bit faster with the  wooden basins(?) But is still manual. But you can do 6 basins in parallel while you wait for each to go through the stirring animation.
+* 가죽은 'wooden basins(?)'으로 좀 더 빨리 만들지만 여전히 수동이다. 그러나 당신은 각각이 휘젓는 애니메이션을 거치기를 기다리는 동안 6개의 basins을 병렬로 저을 수 있다.
 
-* For leather making in the basin, you only need 1 salt to 3 hide each time you make it. Same goes for when you tan it later; you only need one resin per 3 dried hide.
+* basin에서 가죽을 만들 때는 만들 때마다 소금 1개 생가죽 3개만 있으면 된다. 나중에 무두질할 때(tanned)도 마찬가지야; 건조한 가죽 3개당 resin 1개면 돼.
 
-## Nutrition
+## 영양
 
-The Nutrition mod encourages you to eat a balanced diet, giving you relevant buffs for eating food. See farming and homesteading for how to get a healthy supply of ingredients.
+영양 모드는 균형 잡힌 식사를 하도록 장려하며, 음식을 먹는 데 의미있는 버프를 제공한다. 재료의 공급 방법은 농사와 홈스테딩을 보라.
 
-* To boost nutrition quickly, use the Hand Crank with a Millstone[BetterWithMods] to become hungry and chow down your surplus of food. You can use multiple cranks to speed this up.
+* 영양을 빨리 끌어올리려면 밀스톤[BetterWithMods]과 함께 핸드크랭크를 사용하여 배를 고프게 하여 남는 음식을 줄인다. 이 속도를 높이기 위해 여러 개의 크랭크를 사용할 수 있다.
 
-* If you're unsure which foods you can eat to maximize your bars, you can filter food types by typing the category in JEI.  For instance, searching for fruit will give you all items you have access to that increases your fruit bar.
+* 영양 바를 최대치로 만들기 위해 어떤 음식을 먹어야 하는지 확실하지 않다면, JEI에 카테고리를 입력하여 음식 유형을 필터링할 수 있다. 예를 들어, 과일(fruit)을 찾는 것은 여러분이 과일 바를 증가시키는 것에 해당되는 모든 아이템을 보여 줄 것이다.
 
-* Rice bread can be eaten even when full, making it very useful for keeping saturation up during a fight or boosting your grain nutrition. 
+* 쌀빵(Rice bread)은 배가 불러도 먹을 수 있어 싸움 중 배부름 상태를 유지하거나 곡물 영양을 끌어올리는 데 매우 유용하다.
 
-* In the same way making leather is easier with the basin, dough is 3 flour and 1 salt per batch.
+* 가죽을 만드는 것과 같은 방식으로 basin으로 더 쉬워지는데, 반죽은 1개당 도우(밀가루) 3개, 소금 1개씩이다.
 
-* It's useful for when you want to make bigger meals with the cauldron to make lots and lots of bowls for the chicken stews, and other things that it can make. They don’t stack, so it should really only be eaten when you’re in your base, to save on inventory space.
+* 이것은 당신이 치킨 스튜를 위해 많은 접시들을 만들기 위해 가마솥(cauldron)과 더 큰 식사를 만들고 싶을 때 유용하다. 이것들은 쌓이지(stack) 않기 때문에, 인벤토리 공간을 절약하기 위해서, 여러분이 기지에 있을 때만 먹어야 한다.
 
-### Good foods to make:
+### 만들기 좋은 음식:
 
-* Pork dinner: Cooked Pork+Baked Potato + raw Carrots gives **3% Vegetable, Protein**
+* Pork dinner: 구운 고기 + 구운 감자 + 당근 **3% Vegetable, Protein**
 
-    * Be careful to only put in the minimum carrots as the cauldron cooks any spare carrots. 
+    * 가마솥이 여분의 당근을 요리할 때 최소한의 당근만 넣도록 조심해라. 
 
-    * Some youtubers show that you need a blue flame to stoke the cauldron.  This in fact not needed for (most?/any? ( This is needed for the potash recipe - at least the one with logs-) ) recipes.
+    * 몇몇 유튜버는 솥에 불을때기 위해 파란 불꽃이 필요하다는 것을 보여준다. 이것은 사실 (대부분?/모든?) 조리법에는 필요하지 않다.
 
-* Tasty Sandwich: Cooked Meat of any kind + Bread gives **3% Grain, Protein**
+* Tasty Sandwich: 모든 종류의 구운 고기 + 빵 **3% Grain, Protein**
 
-* Rice **(very spammable): 1% Grain**, negligible hunger, 0 saturation
+* 쌀(Rice) **(매우 많이 먹을 수 있음): 1% Grain**, 무시해도 될 정도의 배고픔, 0 포화도
 
-* Cooked Shark Meat: although it fills only **Protein (3.5%)**, it has no saturation cap and can be eaten at any time, even if you food bar is full. Good if you need constant HP regen in battles.
+* Cooked Shark Meat: 비록 이것이 **Protein (3.5%)**만 채울지라도, 그것은 포화 한도가 없고 당신의 영양바가 가득 차 있더라도 언제든지 먹을 수 있다. 전투에서 지속적인 HP 회복이 필요할 경우 좋다.
 
-## Combat
+## 전투
 
 * If playing non-peaceful is too stressful for you, you can switch to peaceful for all but 1 part and still get into Age 4. You'll need the shadow gem from Abyssal monsters spawning in an Abyssal biome.
 
@@ -432,7 +432,7 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 * The sacrificial dagger together with a blood altar can be used to instantly kill most enemies.
 
-## Inventory tips
+## 인벤토리 팁
 
 * Make shelves instead of chests. They hold 16 items instead of 12, and are more friendly to an inventory wall. Note: They don't currently work with Quark’s Drop-off button (see below).
 
@@ -454,7 +454,7 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 * The strainer box acts as a normal chest with hopper attached, so you can literally throw whatever into it.
 
-## Totem Rituals
+## 토템 
 
 Totem rituals allow you to make instruments, play a tune before the timer runs out to get various effects. 
 
@@ -486,7 +486,7 @@ Start a ritual by shift clicking the instruments in certain orders. After the ri
 
 * Newly created buffalo's are not full-grown so you can’t breed them straight away
 
-## Abyssalcraft
+## 어비셜크래프트(Abyssalcraft)
 
 * Darkland oaks are found in 4 darkland biomes, each of which are found beyond 5000 blocks south of spawn.
 
@@ -494,7 +494,7 @@ Start a ritual by shift clicking the instruments in certain orders. After the ri
 
 * The Shadow monster's darkness ability is very blinding. Best to lure him to your bunker and hack at his knees.
 
-# Age 1
+# 에이지 1
 
 This age is focused on Prospecting for Bronze(tin and copper), 2 magic mods: Blood magic and AbyssalCraft, and having a minimal Better With Mods setup.  If you want ideas on planning a good base with room to put your stuff check out this [server tour from To Asgard](https://www.youtube.com/watch?v=Lowt8ttvr8Q).
 
