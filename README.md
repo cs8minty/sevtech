@@ -404,95 +404,95 @@ Sevtech 현재 버전은 3.1.2 Hotfix 1 : [여기서 얻으세요 !](https://www
 
 ## 전투
 
-* If playing non-peaceful is too stressful for you, you can switch to peaceful for all but 1 part and still get into Age 4. You'll need the shadow gem from Abyssal monsters spawning in an Abyssal biome.
+* 만약 평화롭지 않은 플레이를 하는 것에 너무 스트레스를 받는다면, 당신은 에이지 1 부분을 제외한 모든 부분을 평화로움 단계로 바꿀 수 있고 여전히 에이지 4까지 갈 수 있다. 아비셜 바이옴에서 생성된 아비셜 몬스터로 부터 그림자 보석이 필요할 겁니다.
 
-* If you use shears on a creeper, it stops them from exploding.
+* 크리퍼에 가위를 사용하면 폭발하는 것을 막을 수 있다.
 
-* Mobs grow in toughness and availability as you progress through the pack
+* 몹은 이 모드팩을 통해 진행함에 따라 견고하게 성장합니다.
 
-* Attack with a lit torch to set enemies on fire
+* 불붙은 횃불(lit torch)로 적에게 불을 질러 공격하라.
 
-* The best weapon is a Bear Claw Paxel with 6 damage and 5 attack speed (higher is better).
+* 가장 좋은 무기는 6의 피해와 5의 공격 속도(높은 것이 좋다)를 가진 곰 발톱 팍셀(Bear Claw Paxel)이다.
 
-* 2nd to the Paxel is a Stone Club at 3 damage and 5 attack speed (spammable). It is also faster at mining.
+* 2위는 3의 피해와 5의 공격 속도의 돌 몽둥이다. 채굴에도 빠르다.
 
-* Tying at 3rd place is a flint workblade which is as good as a sword
+* 3위는 검처럼 좋은 부싯돌 작업칼이다.
 
-* Mud makes for decent early game ranged spammable weapon
+* 진흙은 적당한 게임 초반용 범위 무기를 만들 수 있다.
 
-* Making a stone-braced wooden shield will make handling darklands combat a lot easier.
+* stone-braced wooden shield를 만들면 다크랜드에서의 대처가 훨씬 쉬워질 것이다.
 
-* The Totemic whittling knife is available as soon as you open Age 0. Make yourself one, and put down a totem base and an ocelot totem. It has a 5 block in each direction creeper griefing protection. Creepers will not blow up within its range. 
+* 토템 조각칼은 에이지 0을 열자마자 사용할 수 있다. 토템 베이스와 오셀롯 토템을 내려놔라 그것은 각 방향 5블록에서 크리퍼로 부터 보호할 수 있다. 크리퍼는 사정거리 내에서 폭발하지 않는다.
 
-* For on the run buffs focus on nutrition and farming. You can get Speed 3, Strength 1, and Resistance 1, and nourished for healing. Having all 4 nutrition bars up you can get 20 hearts.
+* 뛰는 것을 좋아하는 사람들은 영양과 농사에 주목해라. 속도 3, 힘 1, 저항 1을 얻을 수 있으며, 회복을 위해 버프(nourished)를 받을 수 있다. 4개의 영양 바를 모두 갖추면 20개의 하트를 얻을 수 있다.
 
-* Defeating the Baykok boss from Totemic is highly recommended to do as soon as possible. His behaviour is mostly like that of a standard skeleton so he is easily cheesed by attacking his legs from a 1 block gap. Parrots are found in Jungle, Swamp and Savannah biomes. If you can't find parrots that you need to get the eagle-bone whistle, wait until Age 1 and summon a parrot using an abyssalcraft ritual.
+* Totemic의 보스 Baykok을 무찌르는 건 가능한 한 빨리 하는 것이 바람직하다. 그의 행동양식은 대부분의 표준 몬스터와 비슷해서 1블록의 틈새에서 다리를 공격하면 쉽게 화를 낸다. 앵무새는 Jungle, Swamp, Savannah 생물에서 발견된다. 만약 당신이 독수리뼈 휘파람을 불어야 할 앵무새를 찾을 수 없다면, 에이지 1까지 기다렸다가 어비셜크래프트 의식을 이용하여 앵무새를 소환하라.
 
-* When questing for the shadow gem set up a full 6 tall (1 totem base + 5 totem) totem of pig (luck 3), another for horse(speed 3) and another for wolf (strength 3). Add in ocelot (creepers are harmless) and endermen (night vision) totem with only 1 needed of each.
+* 그림자 보석을 얻을 때, 6칸 높이의 돼지 토템(토템 베이스 1개 + 토템 5개), 말 토템(속도 3개), 늑대 토템(힘 3개)을 설치한다. 각각 1개씩만 필요한 오셀롯(크리퍼 무력화)과 엔더맨(나이트비전) 토템을 추가한다.
 
-* The sacrificial dagger together with a blood altar can be used to instantly kill most enemies.
+* 희생 단검(sacrificial dagger)과 피의 제단을 함께 사용하면 대부분의 적을 즉시 죽일 수 있다.
 
 ## 인벤토리 팁
 
-* Make shelves instead of chests. They hold 16 items instead of 12, and are more friendly to an inventory wall. Note: They don't currently work with Quark’s Drop-off button (see below).
+* 상자(chests) 대신 선반(shelves)을 만들어라. 그것은 12개 대신에 16개 아이템을 가질 수 있고, 인벤토리 벽에 좀 더 친절하다. 참고: 현재 Quark의 Drop-off 버튼과 함께 작동하지 않음 (아래 참조).
 
-* Craft a backpack when you get access to leather to hold your items.
+* 가죽을 만들 수 있을 때 소지품을 보관할 수 있도록 백팩을 제작하십시오.
 
-* After getting a backpack, tech straight to the Stone Backpack for 36 slots. Craft the leather backpack with a wood upgrade, then craft with stone upgrade
+* 백팩을 받은 후 36개의 슬롯의 돌 백팩에 으로 바로 연결하십시오. 나무로 업그레이드한 가죽 백팩을 제작한 후 돌로 제작하여 업그레이드 하십시오.
 
-* The Cart functions as a double chest when you sneak-right click on it, making by far it the best Age 0 storage option (if bulky).
+* 카트(Cart)는 당신이 쉬프트 우클릭할 때 더블상자 역할을 하므로, 단연코 최고의 에이지 0 스토리지 옵션(부피가 큰 경우)이 된다.
 
-    * Attach to a horse with astikoor hotkey, R by default.
+    * Astikoor 단축키로 말에 부착하십시오. 기본적으로 R키.
 
-    * Note:Open its inventory to use Drop off after expedition.
+    * 참고: 탐사 후 Drop off를 사용하려면 인벤토리를 여십시오.
 
-    * Note that Carts are **not protected** by claim protection in multiplayer.
+    * 멀티플레이어의 클레임 보호에 의해 카트가 **보호되지 않는 것**에 유의하십시오.N
 
-* You can deposit items in your inventory that are already in chests nearby by holding shift and clicking the drop-off button in your inventory. See Dropoff Button here: https://quark.vazkii.us/ This is great after an expedition to clear out things in your inventory you've already found a place for in your chests.
+* 근처에 이미 상자에 있는 물품은 시프트를 누르고 인벤토리에서 드롭오프 버튼을 클릭하면 넣을 수 있다. 여기 드롭오프 버튼을 참조하십시오. https://quark.vazkii.us/ 이것은 당신의 상자에서 이미 찾은 물건들을 정리하기 위한 것으로 탐험 후 아주 좋다.
 
-    * You can also store restricted items. Just don't try to select them in your hot bar or inventory.
+    * 제한된 아이템도 보관할 수 있다. 핫바나 인벤토리에서 선택하려고 하지 마십시오.
 
-* The strainer box acts as a normal chest with hopper attached, so you can literally throw whatever into it.
+* 스트레이너 박스는 호퍼가 붙어 있는 일반 상자의 역할을 하므로 말 그대로 무엇이든 던질 수 있다.
 
 ## 토템 
 
-Totem rituals allow you to make instruments, play a tune before the timer runs out to get various effects. 
+토템 의식은 다양한 효과를 얻기 위해 타이머가 끝나기 전에 악기를 만들어 음악를 연주해야 한다.
 
-Tutorial video: [https://www.youtube.com/watch?v=NXXumiUuZlw](https://www.youtube.com/watch?v=NXXumiUuZlw) 
+튜토리얼 비디오: [https://www.youtube.com/watch?v=NXXumiUuZlw](https://www.youtube.com/watch?v=NXXumiUuZlw) 
 
-You need a **totem near your instrument setup**, otherwise rituals never start.
+**악기 근처에 토템이 필요하다**, 그렇지 않으면 의식은 결코 시작되지 않는다.
 
-Start a ritual by shift clicking the instruments in certain orders. After the ritual is started just hit the instruments in the right order.
+특정한 순서로 악기를 누르는 것으로 의식을 시작한다. 의식이 시작된 후에는 올바른 순서로 악기를 치십시오.
 
-* Each instrument when activating a ritual has a set amount of music it can produce, you need multiple instruments (ie. make 6+ drums and 2+ chimes) on hand to complete most rituals. Eagle Bone > Jingle Dress = Drum > Rattle = Wind Chime > Flute
+* 의식을 활성화할 때 각각의 악기는 그것이 만들 수 있는 정해진 양의 음악을 가지고 있으며, 대부분의 의식을 완성하기 위해서는 여러 개의 악기가 필요하다(즉 6개 이상의 드럼과 2개 이상의 풍경을 만들 것). 독수리 뼈 > 징글 드레스 = 드럼 > 짤랑이 = 풍경 > 플루트
 
-* After being played for a few times that instrument becomes 'boring' but still contributes ¾ of its peak ‘music’ thereafter.
+* 몇 번 연주된 후에도 그 악기는 '보링'이 되지만, 그 후에도 여전히 그것의 최고 '음악'의 3⁄4에 기여한다.
 
-* The first ritual you should do is the Infused Flute ritual, giving you an infused flute, which makes it randomly perform as well as a drum or rattle each time you play.
+* 여러분이 해야 할 첫 번째 의식은 주입된 플루트를 주는 의식인데, 이것은 여러분이 연주할 때마다 드럼이나 짤랑이뿐만 아니라 무작위로 연주하게 만든다.
 
-* Each instrument has a cooldown before it can be played again. While juggling 3+ flute/rattles isn't feasible, you can have multiple drums around while you wait for the others to cool down. 
+* 각각의 악기는 다시 연주하기 전에 쿨다운이 있다. 3개 이상의 플루트/짤랑이을 저글링하는 것은 가능하지 않지만, 다른 것들의 쿨다운을 기다리는 동안 여러 개의 드럼을 둘 수 있다.
 
-* You can play the drum with the rattle to activate both instruments at once. In same time you can use flute in offhand.
+* 짤랑이로 드럼을 연주하면 두 악기를 동시에 작동시킬 수 있다. 동시에 당신은 즉시 플루트를 사용할 수 있다.
 
-* **Place the instrument set near your farm and do the Zaphkiel Waltz ceremony for crazy fast plant growth.**
+* **농장 근처에 악기 세트를 놓고 미친 듯이 빠른 식물 성장을 위한 자프키엘 왈츠 의식을 행하라.**
 
-* Get the Jingle Skirt for a significant boost. (costs 3 bones, 3 sugar cane per jingle item!) It activates with movement, so placing your drums in a row and strafing is optimal. You also feel really tribal running around.
+* 징글 스커트착용 하여 크게 향상시키십시오. (3개의 뼈, 3개의 사탕수수!) 움직임과 함께 작동하므로 드럼을 일렬로 놓고 스트래핑을 하는 것이 가장 좋다. 당신은 또한 정말 원시 부족 처럼 뛰어다니는 것을 느낄 수 있다.
 
-* Once you get enough bone and sugarcane, make wind chimes and place under leaves (flint/bone shears cuts leaves) to improve their performance.
+* 일단 뼈와 사탕수수를 충분히 얻으면, 풍경을 만들고 나뭇 잎 아래에 놓아라(부싯돌/뼈 가위는 잎을 자른다).
 
-* Hate the rain? Instead of waiting for the Draconic Evolution block or cheating with admin commands, just do the dry ritual. Wonderfully low tech way to shut up that gloomy and loud rain.
+* 비가 싫어? 드라코닉 에볼루션 블록을 기다리거나 관리자 명령어로 치트를 치는 대신 마른 의식(dry ritual)을 행하라. 시끄러운 비를 막을 수 있는 기막힌 낮은 수준의 기술(low tech)이다.
 
-* Most animals can be bred using the **Rite of Spring ceremony,** including** horses.** You cannot use golden carrots or apples to breed animals.
+* **말**을 포함한 대부분의 동물들은 **봄의 의식**으로 번식할 수 있다. 동물을 기르는 데 황금 당근이나 사과를 사용할 수 없다.
 
-* Newly created buffalo's are not full-grown so you can’t breed them straight away
+* 새로 만들어진 버팔로는 다 자라지 않아서 바로 번식할 수 없다.
 
 ## 어비셜크래프트(Abyssalcraft)
 
-* Darkland oaks are found in 4 darkland biomes, each of which are found beyond 5000 blocks south of spawn.
+* 다크랜드 참나무는 4개의 다크랜드 바이옴에서 발견되는데, 각각 남쪽으로 5000블록 이상에서 발견된다.
 
-* Go during the day and set up endermen totems, full wolf totems, and preferably a full pig totem to increase drop rates.
+* 낮 동안 가서 토템을 만들고, 늑대 토템으로 가득 채우고, 가급적 돼지 토템을 만들어 드롭율을 높여라.
 
-* The Shadow monster's darkness ability is very blinding. Best to lure him to your bunker and hack at his knees.
+* 그림자 괴물의 어둠 능력은 실명이다. 벙커로 유인해서 무릎을 공격하는게 최선이야.
 
 # Age 1
 
