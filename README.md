@@ -496,55 +496,55 @@ Sevtech 현재 버전은 3.1.2 Hotfix 1 : [여기서 얻으세요 !](https://www
 
 # Age 1
 
-This age is focused on Prospecting for Bronze(tin and copper), 2 magic mods: Blood magic and AbyssalCraft, and having a minimal Better With Mods setup.  If you want ideas on planning a good base with room to put your stuff check out this [server tour from To Asgard](https://www.youtube.com/watch?v=Lowt8ttvr8Q).
+이 시대는 청동의 탐사, 두 가지 마법 모드, 즉 블러드 매직과 아비셜크래프트, 그리고 최소한의 Better With Mods의 구성에 초점을 맞추고 있다. 물건을 넣을 수 있는 공간이 있는 좋은 기지를 계획하는 아이디어를 원한다면 다음을 살펴봐라. [Asgard 서버 둘러보기](https://www.youtube.com/watch?v=Lowt8ttvr8Q)
 
-## What you can do now
+## 지금 무엇을 할 수 있는가?
 
-* In addition to a crafting table.
+* 제작대가 추가 되었다.
 
-* Vanilla chests are open so it is time to reorganize your stuff. Recall the drop-off button above can help keep things organized and your personal inventory clean. Crates and storage drawers do not support the drop-off function.
+* 바닐라 상자가 열렸으니 이제 네 물건을 다시 정리할 시간이다. 위의 드롭다운 버튼을 다시 불러오면 정리 작업과 개인 인벤토리 정리를 유지하는 데 도움이 될 수 있다. 크레이트와 저장 서랍은 드롭오프 기능을 지원하지 않는다.
 
-* You've unlocked the Hunting Dimension. Use sneak to enter the Hunting Dimension. Creeping moss changes what mobs spawn. Use the above soundproofing block to stop getting scared from the background noise it makes, or build it a ways away from your base.
+* 헌팅 디멘션을 열었군. 헌팅 디멘션 들어가려면 쉬프트를 사용하라. 이끼가 끼면 생성되는 몬스터가 변한다. 위의 방음 블록을 사용하여 배경음을 없애거나 기지에서 멀리 떨어진 곳에 만들 수 있다.
 
-* Craft a Chilel and Bits chisel with a tin ingot
+* 주석 주괴로 Chisel and Bits의 조각칼을 제작한다.
 
-* You can place water with chisels and bits by finding ice and taking/replacing a bit. 
+* 얼음을 찾아 조각을 가져가고 배치함으로써 chisels and bits로 물을 놓을 수 있다.
 
-* Aqueducts tutorial: [https://www.youtube.com/watch?v=S7lRbhtiluw](https://www.youtube.com/watch?v=S7lRbhtiluw) 
+* 수로(Aqueducts) 튜토리얼: [https://www.youtube.com/watch?v=S7lRbhtiluw](https://www.youtube.com/watch?v=S7lRbhtiluw) 
 
-* You can make an infinite water source with 3 aqueduct blocks in a line and placing water sources on the 2 ends. The middle will become a water source.
+* 3개의 수로 블록을 일렬로 세우고 각 끝에 수원을 배치하면 무한 물을 만들 수 있다. 가운데가 수원이 될 것이다.
 
-* Several items like Gears have easier to craft recipes now, be sure to double-check recipes for items from previous ages that were difficult to craft.
+* 기어와 같은 몇 가지 아이템은 현재 제작법이 더 쉬워졌으므로, 제작하기 어려웠던 이전 시대의 아이템에 대한 제작법을 다시 한 번 확인해 보십시오.
 
-* Stone wand lets you build out platforms quickly.
+* 돌 완드(Stone wand)를 사용하면 플랫폼을 신속하게 구축할 수 있다.
 
-* For quickly getting around you can replace your horse with Wild Dog Pelt Boots (Speed boost, added jump height, no fall damage, 2 3 armor)
+* 빠르게 돌아다니기 위해 말을 와일드 도그 펠트 부츠로 교체할 수 있다(스피드 부스트, 점프 높이 추가, 낙하 피해 없음, 방어력 2-3개)
 
-* A crucible can turn zombie flesh and hide into glue. Useful for making torches throwable, crafting Better with Mods Wooden gears and Slime boots. Keep 16 flesh around for Blood Magic though, as it can be used to create a blood block in a casting basin, which you will need for blood orbs.
+* 도가니(crucible)는 썩은 살점과 생가죽을 접착제(Glue)로 바꿀 수 있다. 횃불을 던질 수 있게 만들고, Better with Mods 나무 기어와 슬라임 부츠를 제작하는 데 유용하다. 블러드 매직은 피의 오브를 만들기 위해 주조 대야로 혈액 블록을 만드는 데 사용할 수 있으므로 16개의 살점을 가지고 있어야 한다.
 
-* Use storage crates (not to be confused with wooden crate). It's also silent and it can be gathered with all the items using shift right click. Can be used as a limited version of backpack. Ideal for resource processing or builds. Note that the drop-off button doesn't work with them, so shouldn't be used for primary storage.
+* 저장 상자(나무 상자와 혼동하지 말 것) 또한 조용하고 쉬프트 우클릭을 사용하여 모든 아이템과 함께 모을 수 있다. 제한된 버전의 배낭으로 사용할 수 있다. 리소스 처리 또는 빌드에 이상적임. 드롭오프 버튼은 이 버튼과 함께 작동하지 않으므로 Primary chest에 사용해서는 안 된다는 점에 유의하십시오.
 
-    * Another problem: Difficult to place a sign onto them, as shift+right click picks them up instead. You need to place a sign elsewhere, then move it onto the crate using Carry On.
+    * 또 다른 문제: 쉬프트 우클릭으로 대신 선택되므로 표지판을 부착하기가 어려움. 표지판을 다른 곳에 붙인 다음 Carry On을 사용하여 상자 위로 옮겨야 한다.
 
-* When you remove a single bit (chisel & bits) out of a plank, it will not catch fire. Useful to prevent your base from burning to the ground by your fireplace.
+* 나무판자에 한 조각(chisel & bits)를 빼면 불이 붙지 않는다. 벽난로 옆 바닥이 불타는 것을 막기 위해 유용하다.
 
-## Automation
+## 자동화
 
-* A dung pipe can pull out items from the side and drops them as items. Use this on a grill instead of a Flame hopper. Just have the dung pipe drop items into a wooden hopper.
+* 똥 파이프는 옆으로 아이템을 뽑아 떨어뜨릴 수 있다. 이것을 화염 호퍼 대신 그릴에 사용해라. 그냥 똥 파이프로 아이템을 떨어뜨려 나무 호퍼에 넣어라.
 
-    * Dung pipes work on both parts of a double chest
+    * 이중 상자 양쪽에 똥 파이프가 작동함
 
-* Use a snowman and a melter to automate filling many basins quickly [https://m.imgur.com/a/A21bgOM](https://m.imgur.com/a/A21bgOM)
+* 눈사람과 멜터를 사용하여 많은 대야를 빠르게 채우는 작업을 자동화하십시오.[https://m.imgur.com/a/A21bgOM](https://m.imgur.com/a/A21bgOM)
 
-* Make a hoe, plant a garden. Remember the worms you find from hoeing grass will die after some time, so the hydration they provide is temporary.
+* 괭이를 만들고, 정원을 가꾸어라. 당신이 풀에서 괭이질 하여 찾은 벌레들은 시간이 지나면 죽게 되므로 그것들이 제공하는 수분은 일시적이라는 것을 기억하라.
 
-    * Prioritize Cotton (string) and hemp (Hemp Fiber) and** carrots/wheat(your favorite protein)**
+    * **목화(실)과 Hemp(Hemp Fiber)** 및 **당근/밀(좋아하는 단백질)**의 우선 순위 지정
 
-## Hunting Dimension
+## 헌팅 디멘션(Hunting Dimension)
 
-Craft 8 wood with a stone sword to get the portal frame blocks. Make a portal and activate with your sword. This world only spawns selected types of mobs. Entering the portal then **sneak to enter** the Hunting dimension.
+8개의 나무를 돌 검으로 다듬어 포탈 프레임 블록을 얻는다. 포탈을 만들고 칼로 작동시켜라. 이 월드는 선택된 유형의 몹들만을 생성한다. 포탈에 진입한 후 **움크려서 입장**하라.
 
-Note: Mobs have more health here.
+참고: 여기의 몹들은 좀 더 건강하다.
 
 ### Creeping Moss
 
